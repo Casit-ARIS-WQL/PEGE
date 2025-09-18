@@ -1,4 +1,4 @@
-## PEAGE: Small Object 6D Pose Estimation with Algebraic Geometric Enhancements
+## PEGE: Monocular 6D Pose Estimation with Geometry-Aware Enhancements for Small Objects
 :arrow_forward: [PEAGE](https://www.youtube.com/watch?v=3QeHN82fanY)
 
 <p align="center">
