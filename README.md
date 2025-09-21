@@ -1,5 +1,5 @@
 ## PEGE: Monocular 6D Pose Estimation with Geometry-Aware Enhancements for Small Objects
-:arrow_forward: [PEAGE](https://www.youtube.com/watch?v=3QeHN82fanY)
+:arrow_forward: [PEGE Demo Video](https://www.youtube.com/watch?v=3QeHN82fanY)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3QeHN82fanY">
